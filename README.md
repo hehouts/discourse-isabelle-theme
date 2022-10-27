@@ -1,6 +1,9 @@
-# discourse-isabelle-theme
+This fork contains the modified color palette for the Davsi Research Collaborative
 
-An Animal Crossing inspired theme for Discourse. 
+colors are set in `scss/variables.scss`
+
+# discourse-isabelle-theme
+## An Animal Crossing inspired theme for Discourse.
 
 Read more here: https://meta.discourse.org/t/isabelle-an-animal-crossing-inspired-theme/145005
 
