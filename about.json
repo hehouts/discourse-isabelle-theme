@@ -1,10 +1,10 @@
 {
-  "name": "discourse-isabelle-theme",
+  "name": "discourse-ucd-light-theme",
   "about_url": null,
   "license_url": null,
   "assets": {},
   "color_schemes": {
-    "ucd_isabelle": {
+    "ucd_light": {
       "primary": "00333d",
       "primary-high": "1d4249",
       "primary-medium": "6e8387",
