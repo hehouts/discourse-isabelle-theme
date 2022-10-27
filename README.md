@@ -1,4 +1,4 @@
-This fork contains the modified color palette for the Davsi Research Collaborative
+This fork contains the modified color palette for the Davis Research Collaborative
 
 colors are set in `scss/variables.scss`
 
